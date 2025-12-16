@@ -41,19 +41,24 @@ python bet.py
 Gameplay example (sample session)
 
 ```
-What would you like to deposit?: $20
-Current balance is $20
-Press enter to spin (q to quit).
-Enter the number of lines to bet on (1-3): 3
-What would you like to bet on each line? : $2
-You are betting $2 on 3 lines. Total bet is: $6
+                                      _____        _       _    ____  _       _
+                                     / ____|      (_)     | |  |  _ \(_)     | |
+                                    | (___   _ __  _  __ _| |__| |_) |_  __ _| | ___  ___
+                                     \___ \ | '_ \| |/ _` | '_ \  _ <| |/ _` | |/ _ \/ __|
+                                     ____) || |_) | | (_| | | | | |_) | | (_| | |  __/\__ \
+                                    |_____/ | .__/|_|\__, |_| |_|____/|_|\__,_|_|\___||___/
+                                           | |       __/ |
+                                           |_|      |___/
+                                              A simple slot machine — Good luck!
+                                 ------------------------------------------------------------
+                                                     Result
+                                     D  |  D  |  D
+                                           A  |  C  |  B
+                                           D  |  B  |  C
+                                 ------------------------------------------------------------
+                                       Congrats! You won $80 on line(s): 1
 
-D | C | A
-A | A | C
-D | D | B
-
-You won $0.
-You won on lines:
+Press Enter to continue...
 ```
 
 Configuration tips
